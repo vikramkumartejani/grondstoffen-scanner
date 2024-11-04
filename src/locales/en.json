@@ -1,0 +1,368 @@
+{
+  "header1": {
+    "h1one": "Data source:",
+    "h1two": "EN (2018)"
+  },
+  "header2": {
+    "h2one": "Home",
+    "h2two": "Explore & Review",
+    "h2three": "Trade",
+    "h2four": "Landinfo",
+    "h2btn1": "Register",
+    "h2btn2": "Login"
+  },
+  "body": {
+    "title": "Grondstoffenscanner",
+    "subTitle": "Welcome to the Raw Materials Scanner. Here you can find out to what extent (Bio)raw materials on which you depend may be scarce in the future pose a risk to humans and the environment."
+  },
+  "box1": {
+    "boxline1": "Step 1",
+    "boxline2": "Explore",
+    "boxline3": "Gain insight into the raw materials and products that are part of your production process hear",
+    "boxbutton": "Start the scan",
+    "boxline4": "Step 2",
+    "boxline5": "Judge",
+    "boxline6": "Assess whether your business will be in the future at risk."
+  },
+  "box2": {
+    "box2line1": "Step 3",
+    "box2line2": "Trade",
+    "box2line3": "Then go through the risk analysis to gain insight into to get on the risks",
+    "box2button": "Go directly to trading"
+  },
+  "box3": {
+    "box3line1": "Why?",
+    "box3line2": "Raw materials can suddenly be used due to circumstances more expensive, less available or even no longer available available. With the Raw Materials Scanner, you get Insight into the risk profile of the products you use Materials."
+  },
+  "box4": {
+    "box4line1": "How does it work?",
+    "box4line2": "Answer a few questions about your product and Immediately see which raw materials you use and how it is risk of, for example, scarcity, can be alleged. reduced."
+  },
+  "box5": {
+    "box5line1": "For whom?",
+    "box5line2": "For companies in the Netherlands that depend on a stable supply of raw materials, such as metals or bio raw materials."
+  },
+  "mobile": {
+    "heading": "International Social Corporate Responsibility",
+    "subHeading": "The scanner also provides companies with information about International Civil Society Corporate Responsibility (IRBC). IRBC is an ongoing process that focuses mainly on identifying, preventing and managing social and environmental risks. You can use the information in using the scanner as a first step towards the implementation of due diligence."
+  },
+  "footer": {
+    "fone": "About Raw Materials Scanner",
+    "ftwo": "Accessibility",
+    "fthree": "Cookies",
+    "ffour": "Privacy statement"
+  },
+  "productGroup": {
+    "breadcrumb": {
+      "home": "Home",
+      "exploreReview": "Explore & Review",
+      "review": "Review"
+    },
+    "heading1": "Review: your product groups",
+    "paragraphs": {
+      "intro1": "See which critical materials your selected products contain. You can view product groups or raw materials. Here you will see a risk analysis based on supply security, price volatility, and risks to people and the environment.",
+      "intro2": "If a raw material is designated as a “conflict material,” it is shaded red in the raw material overview.",
+      "selectedGroups": "For each product group, the raw materials, including their relative amounts, are displayed.",
+      "riskAction": "If the factsheet(s) for your product group(s) show that you are at risk for one or more raw materials, check 'Act' to see what you can do to mitigate this risk.",
+      "note": "Please note that these action perspectives are not material-specific and need to be adapted to your specific situation."
+    },
+    "heading2": "Your selected product groups",
+    "actionButton": "Action Perspectives",
+    "factsheetLinkText": "View Factsheet",
+    "factsheets": [
+      {
+        "symbol": "Fe",
+        "title": "Iron",
+        "linkText": "View Factsheet"
+      },
+      {
+        "symbol": "Sb",
+        "title": "Antimony",
+        "linkText": "View Factsheet"
+      },
+      {
+        "symbol": "Fe",
+        "title": "Iron",
+        "linkText": "View Factsheet"
+      }
+    ],
+    "productGroups": [
+      {
+        "code": "340600",
+        "title": "Candles and similar articles",
+        "linkText": "View Factsheet",
+        "info": ["Negligible", "Limited", "Moderate"],
+        "isAlt": false
+      },
+      {
+        "code": "340600",
+        "title": "Candles and similar articles",
+        "linkText": "View Factsheet",
+        "info": ["Negligible", "Limited", "Moderate"],
+        "isAlt": true
+      },
+      {
+        "code": "340600",
+        "title": "Candles and similar articles",
+        "linkText": "View Factsheet",
+        "info": ["Negligible", "Limited", "Moderate"],
+        "isAlt": false
+      }
+    ]
+  },
+  "trade": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Trade"
+    },
+    "step": "Step 3",
+    "heading": "Trade",
+    "paragraph1": "Here you will find actionable perspectives that can help you manage your business risks and the impacts on people and the environment.",
+    "paragraph2": "Are you looking for more information and support in identifying and addressing negative impacts on people and the environment in metal supply chains? Visit the International CSR Covenant for the Metal Sector website. You can also consult the Circular Procurement Guide tool for additional ideas on closing material loops."
+  },
+  "tradeSearch": {
+    "filter": {
+      "typeSupply": "Type Supply",
+      "otherSupply": "Other Supply (2)",
+      "betterSupply": "Better Supply (5)",
+      "lessConsumption": "Less Consumption (5)",
+      "operations": "Operations",
+      "longTermSupply": "Long-Term Supply Security (5)",
+      "shortTermSupply": "Short-Term Supply Security (10)",
+      "impactOnPeopleAndEnvironment": "Impact on People and Environment (22)",
+      "businessResults": "Business Results (33)",
+      "imvo": "IMVO (46)"
+    },
+    "results": {
+      "setUpSystem": "Set up a system to manage supply chain risk in the organization",
+      "systemDescription": "Set up supply chain risk management and a suitable strategy: - Secure the importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze what competencies and responsibilities are needed and involve them (for example: purchasing, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - For each dependency, create an action plan (compare with HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputation, etc.) using a Kraljic analysis. - Establish business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+    },
+    "resultsCount": "search results",
+    "filterSections": [
+      {
+        "title": "Supply Type",
+        "options": [
+          "Other supply (2)",
+          "Better supply (5)",
+          "Less consumption (5)"
+        ]
+      },
+      {
+        "title": "Business Operations",
+        "options": [
+          {
+            "label": "Long-term supply security (5)",
+            "image": "long-term-security.png"
+          },
+          {
+            "label": "Short-term supply security (10)",
+            "image": "short-term-security.png"
+          },
+          {
+            "label": "Impact on people and the environment (22)",
+            "image": "people-stars.png"
+          },
+          {
+            "label": "Business results (33)",
+            "image": "chart.png"
+          },
+          {
+            "label": "Responsible business conduct (46)",
+            "image": "world.png"
+          }
+        ]
+      }
+    ],
+    "tradeSearchResult": {
+      "results": {
+        "count": "results",
+        "business_operations": "Business Operations",
+        "cost": "Cost",
+        "time": "Time",
+        "complexity": "Complexity",
+        "abiotic": "(A)-biotic"
+      },
+      "cards": [
+        {
+          "title": "Set up a system to manage supply chain risk in the organization",
+          "description": "Establish supply chain risk management and a suitable strategy: - Ensure importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze which competencies and responsibilities are needed and involve them (for example: procurement, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - Create an action plan for each dependency (compare with the HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputational, etc.), for example, with a Kraljic analysis. - Develop business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+        },
+        {
+          "title": "Set up a system to manage supply chain risk in the organization",
+          "description": "Establish supply chain risk management and a suitable strategy: - Ensure importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze which competencies and responsibilities are needed and involve them (for example: procurement, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - Create an action plan for each dependency (compare with the HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputational, etc.), for example, with a Kraljic analysis. - Develop business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+        },
+        {
+          "title": "Set up a system to manage supply chain risk in the organization",
+          "description": "Establish supply chain risk management and a suitable strategy: - Ensure importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze which competencies and responsibilities are needed and involve them (for example: procurement, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - Create an action plan for each dependency (compare with the HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputational, etc.), for example, with a Kraljic analysis. - Develop business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+        },
+        {
+          "title": "Set up a system to manage supply chain risk in the organization",
+          "description": "Establish supply chain risk management and a suitable strategy: - Ensure importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze which competencies and responsibilities are needed and involve them (for example: procurement, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - Create an action plan for each dependency (compare with the HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputational, etc.), for example, with a Kraljic analysis. - Develop business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+        },
+        {
+          "title": "Set up a system to manage supply chain risk in the organization",
+          "description": "Establish supply chain risk management and a suitable strategy: - Ensure importance and continuity in the organization (for example: appropriate budget and impact on targets). - Analyze which competencies and responsibilities are needed and involve them (for example: procurement, marketing & sales, R&D, engineering). - Define indicators for determining impact and risks. - Map critical dependencies (suppliers, components, resources, etc.). - Create an action plan for each dependency (compare with the HACCP approach). - Analyze the likelihood and impact of delivery issues (financial, reputational, etc.), for example, with a Kraljic analysis. - Develop business continuity plans (for example: insurance). - Design a strategy for dealing with suppliers (for example: periodic audits, communication strategy, etc.)."
+        }
+      ]
+    }
+  },
+  "landinfo": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Trade"
+    },
+    "heading": "Country Information",
+    "description": "On this page, you will find country-specific information.",
+    "tableArea": {
+      "label": "Choose which country’s information you want to view",
+      "land": "Country",
+      "importTon": "Import in tons",
+      "exportTon": "Export in tons",
+      "importEur": "Import in €K",
+      "exportEur": "Export in €K",
+      "epi": "EPI",
+      "wgi": "WGI",
+      "hdi": "HDI",
+      "countries": {
+        "albania": "Albania",
+        "cotton_fabrics": "Cotton fabrics",
+        "electronics": "Electronic devices",
+        "vehicles": "Vehicles",
+        "pharmaceuticals": "Pharmaceutical products",
+        "synthetic_yarns": "Yarns, other than sewing threads, of synthetic staple fibers, containing < 85% by weight staple fibers",
+        "wool_clothing": "Clothing of wool",
+        "agriculture_machines": "Agricultural machines",
+        "fruits_vegetables": "Fruits and vegetables",
+        "paper_products": "Paper and cardboard, of the type used for writing, printing, or other graphic purposes, coated with or containing a coating of kaolin or other inorganic substances",
+        "metal_products": "Metal products",
+        "meat_products": "Meat products",
+        "plastic_products": "Plastic products"
+      }
+    }
+  },
+  "grondstoffenscanner": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "About Raw Material Scanner"
+    },
+    "headings": {
+      "heading1": "About Raw Material Scanner",
+      "heading2": "How Does the Raw Material Scanner Work?"
+    },
+    "paragraphs": {
+      "para1": "Many companies in the Netherlands depend on a stable supply of raw materials, such as metals or bio-based resources. Due to various circumstances, raw materials can suddenly become much more expensive, harder to obtain, or even unavailable. This could be a risk for your business. You might receive them today, but what about tomorrow? With the Raw Material Scanner, you can assess the risk of future scarcity for the materials your company uses.",
+      "para2": "You scan a product through the scanner, for example, a phone. You then receive an overview of the possible materials used. Where do they come from? What is the risk profile for each material? This can involve economic risks, as well as environmental and social risks, such as those related to human rights. The Raw Material Scanner visually displays estimates for a selected number of raw materials. You can immediately see the supply security and reputation risk. You also learn what you can do to reduce your risk in a way that aligns with your business strategy."
+    }
+  },
+  "exploreheader": {
+    "header": {
+      "home": "Home",
+      "current": "Trade",
+      "stap": "Step 1",
+      "title": "Explore: What are you purchasing?",
+      "paragraph": "Search for product groups based on a keyword, product category, or raw material, allowing you to discover which raw materials are needed for production. You can also search further by raw material."
+    },
+    "stepOne": {
+      "title": "Choose where you want to retrieve the information from",
+      "labelOne": "Search by name or HS code of the product group",
+      "labelTwo": "Search by product category",
+      "labelThree": "Search by raw material",
+      "toSearch": "Search",
+      "of": "or",
+      "btnOne": "Biotic raw materials",
+      "btnTwo": "Abiotic raw materials",
+      "btnThree": "Primary",
+      "btnFour": "Recycled"
+    },
+    "stepTwo": {
+      "title": "Found Results",
+      "para": "With the results, you can view the factsheet about the raw material or product group or add various product groups to compare the differences.",
+      "paraTwo": "A raw material factsheet is available for Antimony",
+      "tolookit": "View",
+      "titleOne": "Other non-metallic mineral products",
+      "titleTwo": "Other processed glass, including technical glassware",
+      "titleThree": "702000 - Glassware, n.e.s.",
+      "viewFactSheet": "View factsheet",
+      "add": "Add"
+    },
+    "stepThree": {
+      "title": "Your selected product groups",
+      "deleteEverything": "Delete everything",
+      "titleOne": "702000 - Glassware, n.e.s.",
+      "continue": "Proceed with review"
+    }
+  },
+  "antimoon": {
+    "antimony": "Antimony",
+    "factsheet": "Factsheet raw material",
+    "max_price_increase": "Maximum price increase, with a slightly longer title",
+    "max_price_increase_text": "This represents the largest price increase recorded in a single year since 1900. A maximum price increase of 100% means that the price of a raw material doubled in a single year. Annual averages are calculated; daily, weekly, and monthly averages are excluded.",
+    "description": "Antimony is mainly used as a flame retardant in plastics (52%). It is also used in lead-acid batteries (27%) and to harden alloys.",
+    "price_volatility": "Price volatility of raw materials/materials (MAPII)",
+    "world_production": "World production",
+    "share_page": "Share this page",
+    "expandableSection": {
+      "import_country_info": "Import Country Information",
+      "import_country_info_description": "In the world map below, you can see which countries the Netherlands imports the shown resource from and their scores on Environmental Performance (EPI), Human Development (HDI), and World Governance (WGI).",
+      "price_fluctuation": "Price Fluctuation",
+      "price_fluctuation_description": "Price fluctuations can vary significantly based on various factors such as market demand, seasonal trends, and political stability.",
+      "price_trends_description": "In the graph below, you can see the price trends from the past years.",
+      "IMVO": "IMVO",
+      "risk_indicators": "Risk Indicators",
+      "expand_all": "Expand All"
+    },
+    "import_country": {
+      "world_map": "World Map",
+      "table": "Table",
+      "select_info": "Which information do you want to see?",
+      "default_value": "Import: in k €",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "no_info": "No Information",
+      "info1": "Info 1",
+      "info2": "Info 2",
+      "info3": "Info 3",
+      "map_alt": "Map of countries"
+    },
+    "riskIndicators": {
+      "long_term_security": "Long-term Supply Security",
+      "long_term_items": [
+        "Risk of low proven reserves (abiotic resources)",
+        "Companionality (extent to which a resource is a by-product)",
+        "Concentration of resource reserves (abiotic resources)"
+      ],
+      "short_term_security": "Short-term Supply Security",
+      "short_term_items": [
+        "Concentration of resource extraction/production",
+        "Risks related to low stability and quality of governance in source countries",
+        "Risk that resource is impacted by export restrictions",
+        "Risks due to lack of recycling"
+      ],
+      "business_performance": "Business Performance",
+      "business_items": [
+        "Risk of high price volatility of resources/materials"
+      ],
+      "human_environment_impact": "Impact on People and Environment",
+      "human_environment_items": [
+        "Risk associated with environmental impact of extraction and production",
+        "Risks related to low Human Development Index (HDI)",
+        "Impact on biodiversity"
+      ],
+      "low_reserves_risk": "Risk of low proven reserves (abiotic resources)",
+      "max_price_increase": "Maximum price increase, with a slightly longer title",
+      "max_price_increase_text": "This represents the largest price increase recorded in a single year since 1900. A maximum price increase of 100% means that the price of a raw material doubled in a single year. Annual averages are calculated; daily, weekly, and monthly averages are excluded.",
+      "view_data": "View data in figures"
+    },
+    "sideContent": {
+      "general_information": "General Information",
+      "is_abbreviation": "is the abbreviation for",
+      "antimony": "Antimony",
+      "in_periodic_table": "in the periodic table",
+      "no_conflict_material": "No conflict material",
+      "product_groups": "Product Groups",
+      "air_balloons_and_dirigibles": "Air balloons and airships (0.002)",
+      "lift_screw_aircraft": "Lift screw aircraft (0.000)"
+    }
+  }
+}

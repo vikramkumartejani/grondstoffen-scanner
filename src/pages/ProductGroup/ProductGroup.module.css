@@ -1,0 +1,143 @@
+.section {
+  padding: 20px;
+  padding-bottom: 100px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: #696969;
+  margin-bottom: 15px;
+}
+
+.breadcrumbLink {
+  color: #01689b;
+  text-decoration: none;
+}
+
+.breadcrumbLink:hover {
+  color: #333;
+}
+
+.breadcrumbIcon {
+  margin: 0 12px;
+  color: #c8c8c8;
+  font-size: 14px;
+}
+
+.breadcrumbCurrent {
+  color: #696969;
+  text-decoration: none;
+}
+
+.heading1 {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -2%;
+  color: #000;
+  margin-bottom: 24px;
+}
+
+.para {
+  color: #000;
+  font-size: 18px;
+  letter-spacing: -2%;
+  margin-bottom: 33px;
+  max-width: 856px;
+}
+
+.heading2 {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -2%;
+  color: #000;
+  margin-bottom: 24px;
+}
+
+.actionButton {
+  background-color: #f2b34d;
+  color: #6d4300;
+  padding: 16px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 7px;
+  font-size: 1rem;
+}
+
+.actionButton:hover {
+  background-color: #e08534;
+}
+
+/* Responsive Adjustments */
+
+/* Medium Devices (1024px and below) */
+@media screen and (max-width: 1024px) {
+  .para {
+    margin-bottom: 20px;
+  }
+
+  /* Reduce font sizes from 18px to 16px */
+  .para,
+  .title,
+  .link,
+  .mainLink,
+  .info,
+  .actionButton,
+  .icon {
+    font-size: 16px;
+  }
+
+  /* Decrease icon width and height */
+  .icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  /* Adjust heading and other text */
+  .heading1 {
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: 18px;
+    margin-top: 5px;
+  }
+
+  .heading2 {
+    font-size: 22px;
+    margin-bottom: 18px;
+    margin-top: 5px;
+  }
+}
+
+/* Small Devices (768px and below) */
+@media screen and (max-width: 768px) {
+  /* Further font adjustments if needed for very small screens */
+  .heading1 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+
+  .heading2 {
+    font-size: 20px;
+  }
+
+  .breadcrumb {
+    font-size: 14px;
+  }
+
+  .breadcrumbIcon {
+    margin: 0 5px;
+  }
+}
+
+@media screen and (max-width: 355px) {
+  .breadcrumb {
+    font-size: 12px;
+  }
+}

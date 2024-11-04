@@ -1,0 +1,368 @@
+{
+  "header1": {
+    "h1one": "Gegevens bron:",
+    "h1two": "NL (2018)"
+  },
+  "header2": {
+    "h2one": "Home",
+    "h2two": "Verkennen & Beoordelen",
+    "h2three": "Handelen",
+    "h2four": "Landinfo",
+    "h2btn1": "Registreren",
+    "h2btn2": "Inloggen"
+  },
+  "body": {
+    "title": "Grondstoffenscanner",
+    "subTitle": "Welkom bij de Grondstoffenscanner. Hier kunt u ontdekken in hoeverre (bio)grondstoffen waarvan u afhankelijk bent, in de toekomst mogelijk schaars worden of een risico vormen voor mens en milieu."
+  },
+  "box1": {
+    "boxline1": "Stap 1",
+    "boxline2": "Verkennen",
+    "boxline3": "Krijg inzicht in de grondstoffen en producten die bij uw productieproces horen.",
+    "boxbutton": "Start de scan",
+    "boxline4": "Stap 2",
+    "boxline5": "Beoordelen",
+    "boxline6": "Beoordeel of uw bedrijf in de toekomst een risico loopt."
+  },
+  "box2": {
+    "box2line1": "Stap 3",
+    "box2line2": "Handelen",
+    "box2line3": "Doorloop de risicoanalyse om inzicht te krijgen in de risico’s.",
+    "box2button": "Ga direct naar handelen"
+  },
+  "box3": {
+    "box3line1": "Waarom?",
+    "box3line2": "Grondstoffen kunnen door omstandigheden ineens duurder, minder beschikbaar of zelfs niet meer leverbaar zijn. Met de Grondstoffenscanner krijgt u inzicht in het risicoprofiel van de door u gebruikte materialen."
+  },
+  "box4": {
+    "box4line1": "Hoe werkt het?",
+    "box4line2": "Beantwoord een aantal vragen over uw product en zie direct welke grondstoffen u gebruikt en hoe het risico op bijvoorbeeld schaarste kan worden verkleind."
+  },
+  "box5": {
+    "box5line1": "Voor wie?",
+    "box5line2": "Voor bedrijven in Nederland die afhankelijk zijn van een stabiele toevoer van grondstoffen, zoals metalen of biogrondstoffen."
+  },
+  "mobile": {
+    "heading": "Internationaal Maatschappelijk Verantwoord Ondernemen",
+    "subHeading": "De scanner biedt bedrijven informatie over Internationaal Maatschappelijk Verantwoord Ondernemen (IMVO). IMVO is een doorlopend proces dat vooral gericht is op het identificeren, voorkomen en beheersen van sociale en milieurisico’s. U kunt de informatie in de scanner gebruiken als een eerste stap naar de implementatie van ‘due diligence’."
+  },
+  "footer": {
+    "fone": "Over Grondstoffenscanner",
+    "ftwo": "Toegankelijkheid",
+    "fthree": "Cookies",
+    "ffour": "Privacyverklaring"
+  },
+  "productGroup": {
+    "breadcrumb": {
+      "home": "Home",
+      "exploreReview": "Verkennen & Beoordelen",
+      "review": "Beoordelen"
+    },
+    "heading1": "Beoordelen: uw productgroepen",
+    "paragraphs": {
+      "intro1": "Bekijk welke kritische materialen uw geselecteerde producten bevatten. U kunt productgroepen of grondstoffen bekijken. Hier ziet u een risicoanalyse op basis van leveringszekerheid, prijsvolatiliteit en risico’s voor mens en milieu.",
+      "intro2": "Als een grondstof als 'conflictmateriaal' wordt aangemerkt, is deze rood gemarkeerd in het overzicht.",
+      "selectedGroups": "Per productgroep worden de grondstoffen weergegeven, inclusief hun relatieve hoeveelheden.",
+      "riskAction": "Wanneer de factsheet(s) voor uw productgroep(en) laten zien dat u voor één of meer grondstoffen een risico loopt, kijk dan bij ‘Handelen’ wat u kunt doen om dit risico te beperken.",
+      "note": "Let op dat deze handelingsperspectieven niet grondstofspecifiek zijn en dienen te worden aangepast aan uw specifieke situatie."
+    },
+    "heading2": "Uw geselecteerde productgroepen",
+    "actionButton": "Handelingsperspectieven",
+    "factsheetLinkText": "Bekijk factsheet",
+    "factsheets": [
+      {
+        "symbol": "Fe",
+        "title": "IJzer",
+        "linkText": "Bekijk factsheet"
+      },
+      {
+        "symbol": "Sb",
+        "title": "Antimoon",
+        "linkText": "Bekijk factsheet"
+      },
+      {
+        "symbol": "Fe",
+        "title": "IJzer",
+        "linkText": "Bekijk factsheet"
+      }
+    ],
+    "productGroups": [
+      {
+        "code": "340600",
+        "title": "Kaarsen en dergelijke artikelen",
+        "linkText": "Bekijk factsheet",
+        "info": ["Verwaarloosbaar", "Beperkt", "Gemiddeld"],
+        "isAlt": false
+      },
+      {
+        "code": "340600",
+        "title": "Kaarsen en dergelijke artikelen",
+        "linkText": "Bekijk factsheet",
+        "info": ["Verwaarloosbaar", "Beperkt", "Gemiddeld"],
+        "isAlt": true
+      },
+      {
+        "code": "340600",
+        "title": "Kaarsen en dergelijke artikelen",
+        "linkText": "Bekijk factsheet",
+        "info": ["Verwaarloosbaar", "Beperkt", "Gemiddeld"],
+        "isAlt": false
+      }
+    ]
+  },
+  "trade": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Handelen"
+    },
+    "step": "Stap 3",
+    "heading": "Handelen",
+    "paragraph1": "Hier vindt u handelingsperspectieven die u kunnen helpen bij het managen van uw bedrijfsrisico’s en (de risico’s van) impacts op mens en milieu.",
+    "paragraph2": "Bent u op zoek naar meer informatie en ondersteuning bij het identificeren en adresseren van negatieve impacts op mens en milieu in metaalketens? Bekijk de website van het Internationaal MVO convenant voor de metaalsector. Daarnaast kunt u de tool Wegwijzer Circulair Inkopen raadplegen voor aanvullende ideeën rondom het sluiten van materiaalkringlopen."
+  },
+  "tradeSearch": {
+    "filter": {
+      "typeSupply": "Type supply",
+      "otherSupply": "Andere supply (2)",
+      "betterSupply": "Betere supply (5)",
+      "lessConsumption": "Minder verbruik (5)",
+      "operations": "Bedrijfsvoering",
+      "longTermSupply": "Lange termijn leveringszekerheid (5)",
+      "shortTermSupply": "Korte termijn leveringszekerheid (10)",
+      "impactOnPeopleAndEnvironment": "Impact op mens en milieu (22)",
+      "businessResults": "Bedrijfsresultaat (33)",
+      "imvo": "IMVO (46)"
+    },
+    "results": {
+      "setUpSystem": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+      "systemDescription": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+    },
+    "resultsCount": "zoekresultaten",
+    "filterSections": [
+      {
+        "title": "Type supply",
+        "options": [
+          "Andere supply (2)",
+          "Betere supply (5)",
+          "Minder verbruik (5)"
+        ]
+      },
+      {
+        "title": "Bedrijfsvoering",
+        "options": [
+          {
+            "label": "Lange termijn leveringszekerheid (5)",
+            "image": "long-term-security.png"
+          },
+          {
+            "label": "Korte termijn leveringszekerheid (10)",
+            "image": "short-term-security.png"
+          },
+          {
+            "label": "Impact op mens en milieu (22)",
+            "image": "people-stars.png"
+          },
+          {
+            "label": "Bedrijfsresultaat (33)",
+            "image": "chart.png"
+          },
+          {
+            "label": "IMVO (46)",
+            "image": "world.png"
+          }
+        ]
+      }
+    ],
+    "tradeSearchResult": {
+      "results": {
+        "count": "zoekresultaten",
+        "business_operations": "Bedrijfsvoering",
+        "cost": "Kosten",
+        "time": "Tijd",
+        "complexity": "Complexiteit",
+        "abiotic": "(A)-biotisch"
+      },
+      "cards": [
+        {
+          "title": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+          "description": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+        },
+        {
+          "title": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+          "description": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+        },
+        {
+          "title": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+          "description": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+        },
+        {
+          "title": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+          "description": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+        },
+        {
+          "title": "Zet een systeem op om het supply-chain-risico te managen in de organisatie",
+          "description": "Zet supply chain risk management en een passende strategie op: - Borg het belang en de continuïteit in de organisatie (bijvoorbeeld: passend budget en impact op targets). - Analyseer welke competenties en verantwoordelijkheden nodig zijn en betrek die (bijvoorbeeld: inkoop, marketing & sales, R&D, techniek). - Definieer indicatoren voor de bepaling van impact en risico's. - Breng kritieke afhankelijkheden (leveranciers, componenten, resources, en dergelijke) in kaart. - Stel per afhankelijkheid een actieplan op (vergelijk met HACCP-aanpak). - Analyseer de kans op en impact van leveringsproblemen (financieel, reputatie, enzovoorts) bijvoorbeeld met een Kraljic-analyse. - Stel businesscontinuïteitsplannen op (bijvoorbeeld: verzekeringen). - Ontwerp een strategie hoe met leveranciers om te gaan (bijvoorbeeld periodieke audits, communicatiestrategie, etc.)."
+        }
+      ]
+    }
+  },
+  "landinfo": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Handelen"
+    },
+    "heading": "Landinfo",
+    "description": "Op deze pagina vindt u landspecifieke informatie.",
+    "tableArea": {
+      "label": "Kies van welke land u informatie wilt bekijken",
+      "land": "Land",
+      "importTon": "Import in ton",
+      "exportTon": "Export in ton",
+      "importEur": "Import in k €",
+      "exportEur": "Export in k €",
+      "epi": "EPI",
+      "wgi": "WGI",
+      "hdi": "HDI",
+      "countries": {
+        "albania": "Albanië",
+        "cotton_fabrics": "Weefsels van katoen",
+        "electronics": "Elektronische apparaten",
+        "vehicles": "Voertuigen",
+        "pharmaceuticals": "Farmaceutische producten",
+        "synthetic_yarns": "Garens, andere dan naaigarens, van synthetische stapelvezels, bevattende < 85 gewichtspercenten stapelvezels",
+        "wool_clothing": "Kledingstukken van wol",
+        "agriculture_machines": "Landbouwmachines",
+        "fruits_vegetables": "Groenten en fruit",
+        "paper_products": "Papier en karton, van de soort gebruikt om te worden beschreven of bedrukt of voor andere grafische doeleinden, gestreken met of voorzien van een deklaag van kaolien of van andere anorganische stoffen",
+        "metal_products": "Metaalproducten",
+        "meat_products": "Vleesproducten",
+        "plastic_products": "Plastic producten"
+      }
+    }
+  },
+  "grondstoffenscanner": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Over Grondstoffenscanner"
+    },
+    "headings": {
+      "heading1": "Over Grondstoffenscanner",
+      "heading2": "Hoe werkt de Grondstoffenscanner?"
+    },
+    "paragraphs": {
+      "para1": "Veel bedrijven in Nederland zijn afhankelijk van een stabiele toevoer van grondstoffen, zoals metalen of bio grondstoffen. Grondstoffen kunnen door omstandigheden ineens een stuk duurder, slechter leverbaar of zelfs niet meer leverbaar zijn. En dat kan een risico zijn voor uw bedrijf. U krijgt ze vandaag misschien nog binnen, maar overmorgen ook? Met de Grondstoffenscanner kunt u van de grondstoffen die uw bedrijf gebruikt bijvoorbeeld het risico op schaarste in de toekomst inschatten.",
+      "para2": "U haalt een product door de scanner, bijvoorbeeld een telefoon. U krijgt vervolgens een overzicht van de mogelijk toegepaste materialen. Waar komen ze vandaan? Wat is het risicoprofiel per materiaal? Daarbij kan het gaan om economische risico’s, maar ook om milieu- en maatschappelijke risico’s, bijvoorbeeld rond mensenrechten. De Grondstoffenscanner geeft de schattingen over een geselecteerd aantal grondstoffen visueel weer. U kunt in één keer zien wat de leveringszekerheid en het reputatierisico zijn. Ook leest u wat u kunt doen om uw risico te beperken op een manier die past bij uw bedrijfsstrategie."
+    }
+  },
+  "exploreheader": {
+    "header": {
+      "home": "Home",
+      "current": "Handelen",
+      "stap": "Stap 1",
+      "title": "Verkennen: Wat koopt u in?",
+      "paragraph": "Ga opzoek naar productgroepen op basis van een zoekterm, productcategorie of een grondstof, zo kunt u ontdekken welke grondstoffen nodig zijn voor de productie. Via grondstof kun je ook opzoek naar een grondstof."
+    },
+    "stepOne": {
+      "title": "Kies waar u de informatie vandaan wilt halen",
+      "labelOne": "Zoek op naam of HS-code van de productgroep",
+      "labelTwo": "Zoek op basis van productcategorie",
+      "labelThree": "Zoek op basis van grondstof",
+      "toSearch": "Zoeken",
+      "of": "of",
+      "btnOne": "Biotische grondstoffen",
+      "btnTwo": "Abiotische grondstoffen",
+      "btnThree": "Primaire",
+      "btnFour": "Gerecycled"
+    },
+    "stepTwo": {
+      "title": "Gevonden resultaten",
+      "para": "Met de resultaten kunt u de factsheet over de grondstof of productgroep bekijken of verschillende productgroepen toevoegen om de verschillen te bekijken.",
+      "paraTwo": "Voor Antimoon is een factsheet grondstof beschikbaar",
+      "tolookit": "Bekijken",
+      "titleOne": "Andere niet-metaalhoudende minerale producten",
+      "titleTwo": "Ander bewerkt glas, technisch glaswerk daaronder begrepen",
+      "titleThree": "702000 - Glaswerk, n.e.g.",
+      "viewFactSheet": "Bekijk factsheet",
+      "add": "Toevoegen"
+    },
+    "stepThree": {
+      "title": "Uw geselecteerde productgroepen",
+      "deleteEverything": "Verwijder alles",
+      "titleOne": "702000 - Glaswerk, n.e.g.",
+      "continue": "Ga door met beoordelen"
+    }
+  },
+  "antimoon": {
+    "antimony": "Antimoon",
+    "factsheet": "Factsheet grondstof",
+    "max_price_increase": "Maximale prijsstijging even titel iets langer maken",
+    "max_price_increase_text": "Dit staat voor de grootste prijsstijging die -sinds 1900- in één enkel jaar is opgetreden. Een maximale prijsstijging van 100% wil zeggen dat in één enkel jaar de prijs van een grondstof is verdubbeld. Er wordt gerekend in jaargemiddelden; dag-, week- en maandgemiddelden zijn buiten beschouwing gelaten.",
+    "description": "Antimoon wordt vooral gebruikt als vlamvertrager in plastics (52%). Daarnaast wordt het ingezet in lood-accu's (27%) en voor het harden van legeringen.",
+    "price_volatility": "Prijsvolatiliteit van grondstoffen/ materialen (MAPII)",
+    "world_production": "Wereldproductie",
+    "share_page": "Deel deze pagina",
+    "expandableSection": {
+      "import_country_info": "Informatie importlanden",
+      "import_country_info_description": "In de onderstaande wereldkaart ziet u uit welke landen Nederland de getoonde grondstof importeert en wat hun scores zijn op het gebied van Environmental Performance (EPI), Human Development (HDI) en World Governance (WGI).",
+      "price_fluctuation": "Prijsfluctuatie",
+      "price_fluctuation_description": "Prijsfluctuaties kunnen aanzienlijk variëren op basis van verschillende factoren, zoals marktvraag, seizoensgebonden trends, en politieke stabiliteit.",
+      "price_trends_description": "In de onderstaande grafiek ziet u de prijstrends van de afgelopen jaren.",
+      "IMVO": "IMVO",
+      "risk_indicators": "Risk indicators",
+      "expand_all": "Alles uitklappen"
+    },
+    "import_country": {
+      "world_map": "Wereld kaart",
+      "table": "Tabel",
+      "select_info": "Welke info wil je zien?",
+      "default_value": "Import: in k €",
+      "low": "Laag",
+      "medium": "Gemiddeld",
+      "high": "Hoog",
+      "no_info": "Geen informatie",
+      "info1": "Info 1",
+      "info2": "Info 2",
+      "info3": "Info 3",
+      "map_alt": "Kaart van landen"
+    },
+    "riskIndicators": {
+      "long_term_security": "Lange termijn leveringszekerheid",
+      "long_term_items": [
+        "Risico van lage bewezen reserves (abiotische grondstoffen)",
+        "Companionality (mate waarin een grondstof een bijproduct is)",
+        "Concentratie van grondstofreserves (abiotische grondstoffen)"
+      ],
+      "short_term_security": "Korte termijn leveringszekerheid",
+      "short_term_items": [
+        "Concentratie van grondstofwinning/productie",
+        "Risico's in verband met lage stabiliteit en kwaliteit van bestuur in bronlanden",
+        "Risico dat grondstof wordt beïnvloed door exportrestricties",
+        "Risico's vanwege afwezigheid van recycling"
+      ],
+      "business_performance": "Bedrijfsresultaat",
+      "business_items": [
+        "Risico van hoge prijsvolatiliteit van grondstoffen/materialen"
+      ],
+      "human_environment_impact": "Impact op mens en milieu",
+      "human_environment_items": [
+        "Risico in verband met milieu-impact van winning en productie",
+        "Risico's in verband met lage Human Development Index (HDI)",
+        "Impact op biodiversiteit"
+      ],
+      "low_reserves_risk": "Risico van lage bewezen reserves (abiotische grondstoffen)",
+      "max_price_increase": "Maximale prijsstijging, met een iets langere titel",
+      "max_price_increase_text": "Dit staat voor de grootste prijsstijging die in één enkel jaar sinds 1900 is geregistreerd. Een maximale prijsstijging van 100% betekent dat de prijs van een grondstof in één enkel jaar is verdubbeld. Jaargemiddelden worden berekend; dagelijkse, wekelijkse en maandgemiddelden worden uitgesloten.",
+      "view_data": "Bekijk data in cijfers"
+    },
+    "sideContent": {
+      "general_information": "Algemene informatie",
+      "is_abbreviation": "is de afkorting van",
+      "antimony": "Antimoon",
+      "in_periodic_table": "in het periodiek systeem",
+      "no_conflict_material": "Geen conflict materiaal",
+      "product_groups": "Productgroepen",
+      "air_balloons_and_dirigibles": "Luchtballons en luchtschepen (0,002)",
+      "lift_screw_aircraft": "Hefschroefvliegtuigen (0,000)"
+    }
+  }
+}
