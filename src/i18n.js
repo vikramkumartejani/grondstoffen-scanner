@@ -13,7 +13,7 @@ i18n
     returnObjects: true,
     detection: {
       order: ["path", "cookie", "localStorage", "navigator", "htmlTag"],
-      lookupFromPathIndex: 0, // Looks for the language in the first part of the URL path
+      lookupFromPathIndex: 0, 
     },
     resources: {
       en: {
