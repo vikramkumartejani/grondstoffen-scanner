@@ -13,14 +13,14 @@ i18n
     returnObjects: true,
     detection: {
       order: ["path", "cookie", "localStorage", "navigator", "htmlTag"],
-      lookupFromPathIndex: 0, 
+      lookupFromPathIndex: 0,
     },
     resources: {
       en: {
-        translation: enTranslations,
+        translation: enTranslations as Record<string, unknown>,
       },
       nl: {
-        translation: nlTranslations,
+        translation: nlTranslations as Record<string, unknown>,
       },
     },
   });
