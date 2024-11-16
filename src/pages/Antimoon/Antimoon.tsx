@@ -6,7 +6,6 @@ import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 import Tooltip from "../../components/General/Tooltip/Tooltip";
 import ExpandableSection from "../../components/PageSpecificComponents/Antimoon/AntimoonExpandables/ExpandableSection";
-import PhaseTables from "../../components/PageSpecificComponents/Antimoon/PhaseTables/PhaseTables";
 import AntimoonSideContent from "../../components/PageSpecificComponents/Antimoon/AntimoonSideContent/AntimoonSideContent";
 import { IoMdMail } from "react-icons/io";
 
