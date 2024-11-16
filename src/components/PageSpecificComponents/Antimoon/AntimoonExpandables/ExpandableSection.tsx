@@ -4,6 +4,7 @@ import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 import RiskIndicators from "../RiskIndicators/RiskIndicators";
 import { useTranslation } from "react-i18next";
 import ImportCountryInformation from "../../General/ImportCountryInformation/ImportCountryInformation";
+import PhaseTable from "../PhaseTables/PhaseTables";
 
 interface Section {
   title: string;
@@ -65,6 +66,17 @@ const ExpandableSection: React.FC = () => {
       ),
     },
     {
+      title: t("antimoon.chains"),
+      showInfo: sectionsVisibility.priceInfo,
+      toggleInfo: () => toggleSectionVisibility("priceInfo"),
+      content: (
+        <p>Chains</p>
+      ),
+      expandedContent: (
+        <PhaseTable/>
+      ),
+    },
+    {
       title: t("antimoon.expandableSection.IMVO"),
       showInfo: sectionsVisibility.IMVOInfo,
       toggleInfo: () => toggleSectionVisibility("IMVOInfo"),
@@ -79,6 +91,15 @@ const ExpandableSection: React.FC = () => {
           </p>
         </>
       ),
+    },
+    {
+      title: t("antimoon.expandableSection.risk_indicators"),
+      showInfo: sectionsVisibility.riskIndicatorsInfo,
+      toggleInfo: () => toggleSectionVisibility("riskIndicatorsInfo"),
+      content: (
+        <p>{t("antimoon.expandableSection.import_country_info_description")}</p>
+      ),
+      expandedContent: <RiskIndicators />,
     },
     {
       title: t("antimoon.expandableSection.risk_indicators"),
