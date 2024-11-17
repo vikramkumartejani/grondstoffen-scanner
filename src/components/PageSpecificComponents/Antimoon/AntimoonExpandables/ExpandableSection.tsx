@@ -66,11 +66,11 @@ const ExpandableSection: React.FC = () => {
       ),
     },
     {
-      title: t("antimoon.chains"),
+      title: t("antimoon.expandableSection.chains"),
       showInfo: sectionsVisibility.priceInfo,
       toggleInfo: () => toggleSectionVisibility("priceInfo"),
       content: (
-        <p>Chains</p>
+        <p>{t("antimoon.expandableSection.chains")}</p>
       ),
       expandedContent: (
         <PhaseTable/>

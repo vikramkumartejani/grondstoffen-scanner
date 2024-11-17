@@ -1,5 +1,6 @@
-import React from 'react';
-import styles from './PhaseTables.module.css';
+import React from "react";
+import styles from "./PhaseTables.module.css";
+import { useTranslation } from "react-i18next";
 
 type Phase = {
   materials: string[];
@@ -10,6 +11,7 @@ interface PhaseTablesProps {
 }
 
 const PhaseTables: React.FC<PhaseTablesProps> = ({ phases }) => {
+  const { t } = useTranslation();
   return (
     <div className={styles.container}>
       {phases.map((phase, index) => (
@@ -17,10 +19,11 @@ const PhaseTables: React.FC<PhaseTablesProps> = ({ phases }) => {
           <table className={styles.table}>
             <thead>
               <tr>
-                <th>{`Phase ${index + 1}`}</th>
+                <th>{`${t("antimoon.expandableSection.phase")} ${index + 1}`}</th>
               </tr>
             </thead>
             <tbody>
+              
               {phase.materials.map((material, idx) => (
                 <tr key={idx}>
                   <td>{material}</td>
@@ -38,18 +41,18 @@ const PhaseTables: React.FC<PhaseTablesProps> = ({ phases }) => {
 const phasesData: Phase[] = [
   {
     materials: [
-      'Material 1',
-      'Material 2',
-      'Material 3',
-      'Material 4',
-      'Material 5',
+      "Material 1",
+      "Material 2",
+      "Material 3",
+      "Material 4",
+      "Material 5",
     ],
   },
   {
-    materials: ['Material 1', 'Material 2', 'Material 3'],
+    materials: ["Material 1", "Material 2", "Material 3"],
   },
   {
-    materials: ['Material 1'],
+    materials: ["Material 1"],
   },
 ];
 
